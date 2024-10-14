@@ -8,46 +8,46 @@ This repository contains lab exercises based on **Sysinternals** tools. Each lab
 ### 1. Process and System Monitoring
 
 - **Process Explorer**:
-  [Process Explorer.pdf](https://github.com/user-attachments/files/17353321/process-explorer.pdf)
+  [Process Explorer.pdf](https://github.com/user-attachments/files/17368991/Process.Explorer.pdf)
 
 - **Exploring Processes**:
-  [Exploring Processes.pdf](https://github.com/user-attachments/files/17353322/exploring-processes.pdf)
+  [Exploring Processes.pdf](https://github.com/user-attachments/files/17368986/Exploring.Processes.pdf)
 
 - **Exploring Process Monitor**:
-  [Exploring Process Monitor.pdf](https://github.com/user-attachments/files/17353323/exploring-process-monitor.pdf)
+  [Exploring Process Monitor.pdf](https://github.com/user-attachments/files/17368985/Exploring.Process.Monitor.pdf)
 
 - **Exploring System Monitor (Sysmon)**:
-  [Exploring System Monitor.pdf](https://github.com/user-attachments/files/17353324/exploring-system-monitor.pdf)
+  [Exploring System Monitor.pdf](https://github.com/user-attachments/files/17368988/Exploring.System.Monitor.pdf)
 
 - **System Logs**:
-  [System Logs.pdf](https://github.com/user-attachments/files/17353325/system-logs.pdf)
+  [System Logs.pdf](https://github.com/user-attachments/files/17368992/System.Logs.pdf)
 
 ---
 
 ### 2. Network and Disk Monitoring
 
 - **Exploring TCPView**:
-  [Exploring TCPView.pdf](https://github.com/user-attachments/files/17353326/exploring-tcpview.pdf)
+  [Exploring TCPView.pdf](https://github.com/user-attachments/files/17368989/Exploring.TCPView.pdf)
 
 - **Launch Disk2vhd**:
-  [Launch Disk2vhd.pdf](https://github.com/user-attachments/files/17353327/launch-disk2vhd.pdf)
+  [Launch Disk2vhd.pdf](https://github.com/user-attachments/files/17368990/Launch.Disk2vhd.pdf)
 
 ---
 
 ### 3. Autorun and Dump Analysis
 
 - **Exploring Autorun**:
-  [Exploring Autorun.pdf](https://github.com/user-attachments/files/17353328/exploring-autorun.pdf)
+  [Exploring Autorun.pdf](https://github.com/user-attachments/files/17368983/Exploring.Autorun.pdf)
 
 - **Exploring ProcDump**:
-  [Exploring ProcDump.pdf](https://github.com/user-attachments/files/17353329/exploring-procdump.pdf)
+  [Exploring ProcDump.pdf](https://github.com/user-attachments/files/17368984/Exploring.ProcDump.pdf)
 
 ---
 
 ### 4. Case Studies
 
 - **Case Study: WannaCry**:
-  [WannaCry Case Study.pdf](https://github.com/user-attachments/files/17353330/case-study-wannacry.pdf)
+  [Case Study wannacry.pdf](https://github.com/user-attachments/files/17368982/Case.Study.wannacry.pdf)
 
 ---
 
